@@ -11,7 +11,9 @@ class _nameState extends State<BottomPage4> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Center(child: Text('Bottom Page 4'),),
+      child: Center(
+        child: Text('Bottom Page 4'),
+      ),
     );
   }
 }
